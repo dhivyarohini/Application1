@@ -1,1 +1,2 @@
-this is my file of Git.
+This is my file of Git.
+Check this file.
